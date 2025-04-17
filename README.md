@@ -26,15 +26,12 @@ This Tableau project explores key performance metrics from the 2022 NBA season, 
 - `data/` *(optional)*: Placeholder for dataset (if available and shareable).
 - `README.md`: This file.
 
-## 🚀 How to Use
 
-1. Download the `.twbx` file from this repo.
-2. Open it in [Tableau Public](https://public.tableau.com/) (free).
-3. Explore player and team metrics using filters and tooltips.
 
 ## 📸 Preview
 
-![Dashboard Screenshot](./images/dashboard_preview.png)
+![Dashboard Screenshot](.![NBA Analysis 2022](https://github.com/user-attachments/assets/6a086148-d255-48c7-bca5-c62256ee6b4a)
+)
 
 ## 🧰 Skills Demonstrated
 
